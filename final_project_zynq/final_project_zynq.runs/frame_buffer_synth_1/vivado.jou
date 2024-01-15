@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:31:24 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Fri Jan  5 14:57:24 2024
+# Process ID: 16312
+# Current directory: C:/ALITI/project_1/project_1.runs/frame_buffer_synth_1
+# Command line: vivado.exe -log frame_buffer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source frame_buffer.tcl
+# Log file: C:/ALITI/project_1/project_1.runs/frame_buffer_synth_1/frame_buffer.vds
+# Journal file: C:/ALITI/project_1/project_1.runs/frame_buffer_synth_1\vivado.jou
+# Running On: ALKAN, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 8, Host memory: 16831 MB
+#-----------------------------------------------------------
+source frame_buffer.tcl -notrace
